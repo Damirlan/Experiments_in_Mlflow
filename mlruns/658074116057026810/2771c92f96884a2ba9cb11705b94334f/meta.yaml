@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Damir4k/MlflowExp/mlruns/658074116057026810/2771c92f96884a2ba9cb11705b94334f/artifacts
+deleted_time: 1690103434785
+end_time: 1690101884848
+entry_point_name: ''
+experiment_id: '658074116057026810'
+lifecycle_stage: deleted
+run_id: 2771c92f96884a2ba9cb11705b94334f
+run_name: gifted-pig-931
+run_uuid: 2771c92f96884a2ba9cb11705b94334f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690101839624
+status: 3
+tags: []
+user_id: Damir4k

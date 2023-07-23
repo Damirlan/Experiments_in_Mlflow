@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Damir4k/MlflowExp/mlruns/0/da7685eb14f94a6fae66e9dfc062ca47/artifacts
+end_time: 1689852147046
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: da7685eb14f94a6fae66e9dfc062ca47
+run_name: test_sin_rnn
+run_uuid: da7685eb14f94a6fae66e9dfc062ca47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689852100336
+status: 3
+tags: []
+user_id: Damir4k

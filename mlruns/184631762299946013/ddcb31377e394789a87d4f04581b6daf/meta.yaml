@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Damir4k/MlflowExp/mlruns/184631762299946013/ddcb31377e394789a87d4f04581b6daf/artifacts
+end_time: 1689932819007
+entry_point_name: ''
+experiment_id: '184631762299946013'
+lifecycle_stage: active
+run_id: ddcb31377e394789a87d4f04581b6daf
+run_name: exultant-newt-295
+run_uuid: ddcb31377e394789a87d4f04581b6daf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689932818862
+status: 4
+tags: []
+user_id: Damir4k

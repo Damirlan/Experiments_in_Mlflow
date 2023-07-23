@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Damir4k/MlflowExp/mlruns/184631762299946013/76fdeedac44c46b6ad3322dc19d655d3/artifacts
+end_time: 1689932863862
+entry_point_name: ''
+experiment_id: '184631762299946013'
+lifecycle_stage: active
+run_id: 76fdeedac44c46b6ad3322dc19d655d3
+run_name: skittish-sow-852
+run_uuid: 76fdeedac44c46b6ad3322dc19d655d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689932854998
+status: 3
+tags: []
+user_id: Damir4k

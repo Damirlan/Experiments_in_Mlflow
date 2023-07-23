@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Damir4k/MlflowExp/mlruns/0/b47aa999cca24b479530d265b3738107/artifacts
+end_time: 1689924739615
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b47aa999cca24b479530d265b3738107
+run_name: linnear_regression_sklean
+run_uuid: b47aa999cca24b479530d265b3738107
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689924736741
+status: 3
+tags: []
+user_id: Damir4k

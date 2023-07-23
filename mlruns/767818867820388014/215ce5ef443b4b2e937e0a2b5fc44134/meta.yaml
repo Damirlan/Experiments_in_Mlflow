@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Damir4k/MlflowExp/mlruns/767818867820388014/215ce5ef443b4b2e937e0a2b5fc44134/artifacts
+end_time: 1689935234330
+entry_point_name: ''
+experiment_id: '767818867820388014'
+lifecycle_stage: active
+run_id: 215ce5ef443b4b2e937e0a2b5fc44134
+run_name: defiant-ox-592
+run_uuid: 215ce5ef443b4b2e937e0a2b5fc44134
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689935226687
+status: 3
+tags: []
+user_id: Damir4k

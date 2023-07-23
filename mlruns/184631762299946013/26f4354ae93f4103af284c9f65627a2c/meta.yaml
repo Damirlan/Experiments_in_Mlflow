@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Damir4k/MlflowExp/mlruns/184631762299946013/26f4354ae93f4103af284c9f65627a2c/artifacts
+end_time: 1689932387077
+entry_point_name: ''
+experiment_id: '184631762299946013'
+lifecycle_stage: active
+run_id: 26f4354ae93f4103af284c9f65627a2c
+run_name: delicate-snail-290
+run_uuid: 26f4354ae93f4103af284c9f65627a2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689932379224
+status: 3
+tags: []
+user_id: Damir4k

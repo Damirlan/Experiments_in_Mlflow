@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Damir4k/MlflowExp/mlruns/658074116057026810/e2ca1fda29bf4cfdaed2dc79231a15e8/artifacts
+deleted_time: 1690103434793
+end_time: 1690101779594
+entry_point_name: ''
+experiment_id: '658074116057026810'
+lifecycle_stage: deleted
+run_id: e2ca1fda29bf4cfdaed2dc79231a15e8
+run_name: handsome-bear-794
+run_uuid: e2ca1fda29bf4cfdaed2dc79231a15e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690101766997
+status: 3
+tags: []
+user_id: Damir4k

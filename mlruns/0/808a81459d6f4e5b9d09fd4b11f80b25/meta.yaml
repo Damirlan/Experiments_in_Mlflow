@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Damir4k/MlflowExp/mlruns/0/808a81459d6f4e5b9d09fd4b11f80b25/artifacts
+end_time: 1689755989837
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 808a81459d6f4e5b9d09fd4b11f80b25
+run_name: magnificent-duck-612
+run_uuid: 808a81459d6f4e5b9d09fd4b11f80b25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689755987848
+status: 3
+tags: []
+user_id: Damir4k

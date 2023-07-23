@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Damir4k/MlflowExp/mlruns/658074116057026810/3f8c1df6fea24885a138404f3eb8a671/artifacts
+deleted_time: 1690103434772
+end_time: 1690103170701
+entry_point_name: ''
+experiment_id: '658074116057026810'
+lifecycle_stage: deleted
+run_id: 3f8c1df6fea24885a138404f3eb8a671
+run_name: rebellious-asp-792
+run_uuid: 3f8c1df6fea24885a138404f3eb8a671
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690103104000
+status: 3
+tags: []
+user_id: Damir4k

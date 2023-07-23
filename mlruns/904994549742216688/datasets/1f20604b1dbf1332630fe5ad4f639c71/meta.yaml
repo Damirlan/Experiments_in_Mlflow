@@ -1,0 +1,8 @@
+digest: ce9a0bc4
+name: dataset
+profile: '{"features_shape": [4, 2], "features_size": 8, "features_nbytes": 32}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"int32\", \"shape\": [-1, 2]}}]", "targets": null}}'
+source: '{"tags": {"mlflow.user": "Damir4k", "mlflow.source.name": "C:\\Users\\Damir4k\\AppData\\Roaming\\Python\\Python39\\site-packages\\ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

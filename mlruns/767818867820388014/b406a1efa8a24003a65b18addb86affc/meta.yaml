@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Damir4k/MlflowExp/mlruns/767818867820388014/b406a1efa8a24003a65b18addb86affc/artifacts
+end_time: 1690052942111
+entry_point_name: ''
+experiment_id: '767818867820388014'
+lifecycle_stage: active
+run_id: b406a1efa8a24003a65b18addb86affc
+run_name: likeable-mink-842
+run_uuid: b406a1efa8a24003a65b18addb86affc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690052931082
+status: 3
+tags: []
+user_id: Damir4k

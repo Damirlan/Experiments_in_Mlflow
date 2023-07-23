@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Damir4k/MlflowExp/mlruns/658074116057026810/30c7ea9551ec445980d93ce86805e4c1/artifacts
+deleted_time: 1690103434773
+end_time: 1690103102806
+entry_point_name: ''
+experiment_id: '658074116057026810'
+lifecycle_stage: deleted
+run_id: 30c7ea9551ec445980d93ce86805e4c1
+run_name: learned-shad-252
+run_uuid: 30c7ea9551ec445980d93ce86805e4c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690103065762
+status: 3
+tags: []
+user_id: Damir4k

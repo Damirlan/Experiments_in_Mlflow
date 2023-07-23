@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Damir4k/MlflowExp/mlruns/184631762299946013/828968fa5f424474ad07c84814a3bb12/artifacts
+end_time: 1690105852223
+entry_point_name: ''
+experiment_id: '184631762299946013'
+lifecycle_stage: active
+run_id: 828968fa5f424474ad07c84814a3bb12
+run_name: enchanting-deer-490
+run_uuid: 828968fa5f424474ad07c84814a3bb12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690105823415
+status: 3
+tags: []
+user_id: Damir4k

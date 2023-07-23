@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Damir4k/MlflowExp/mlruns/658074116057026810/d2b75cdc6fe64827bfb9b51b7b9bfc69/artifacts
+deleted_time: 1690103434792
+end_time: 1690101813076
+entry_point_name: ''
+experiment_id: '658074116057026810'
+lifecycle_stage: deleted
+run_id: d2b75cdc6fe64827bfb9b51b7b9bfc69
+run_name: likeable-slug-373
+run_uuid: d2b75cdc6fe64827bfb9b51b7b9bfc69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690101780857
+status: 3
+tags: []
+user_id: Damir4k

@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Damir4k/MlflowExp/mlruns/658074116057026810/c24c3062a12c4e2faf9fb6cf4e51c5f0/artifacts
+deleted_time: 1690103434772
+end_time: 1690103256927
+entry_point_name: ''
+experiment_id: '658074116057026810'
+lifecycle_stage: deleted
+run_id: c24c3062a12c4e2faf9fb6cf4e51c5f0
+run_name: bold-finch-759
+run_uuid: c24c3062a12c4e2faf9fb6cf4e51c5f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690103172176
+status: 3
+tags: []
+user_id: Damir4k

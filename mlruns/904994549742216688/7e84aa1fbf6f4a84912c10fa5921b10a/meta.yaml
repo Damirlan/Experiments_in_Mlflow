@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Damir4k/MlflowExp/mlruns/904994549742216688/7e84aa1fbf6f4a84912c10fa5921b10a/artifacts
+end_time: 1689762104644
+entry_point_name: ''
+experiment_id: '904994549742216688'
+lifecycle_stage: active
+run_id: 7e84aa1fbf6f4a84912c10fa5921b10a
+run_name: AdaBoostClassifier_and
+run_uuid: 7e84aa1fbf6f4a84912c10fa5921b10a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689762102320
+status: 3
+tags: []
+user_id: Damir4k

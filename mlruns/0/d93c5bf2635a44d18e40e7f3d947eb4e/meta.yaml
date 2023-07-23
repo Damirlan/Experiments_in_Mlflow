@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Damir4k/MlflowExp/mlruns/0/d93c5bf2635a44d18e40e7f3d947eb4e/artifacts
+end_time: 1689755499282
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d93c5bf2635a44d18e40e7f3d947eb4e
+run_name: casual-goat-343
+run_uuid: d93c5bf2635a44d18e40e7f3d947eb4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689755496144
+status: 3
+tags: []
+user_id: Damir4k

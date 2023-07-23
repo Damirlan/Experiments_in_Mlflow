@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Damir4k/MlflowExp/mlruns/332795901300589432/6e07d9e696984faa91aa76118f84fa6d/artifacts
+end_time: 1690096112750
+entry_point_name: ''
+experiment_id: '332795901300589432'
+lifecycle_stage: active
+run_id: 6e07d9e696984faa91aa76118f84fa6d
+run_name: big-steed-742
+run_uuid: 6e07d9e696984faa91aa76118f84fa6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690096109927
+status: 3
+tags: []
+user_id: Damir4k

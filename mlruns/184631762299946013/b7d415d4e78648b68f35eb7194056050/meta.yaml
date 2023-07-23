@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Damir4k/MlflowExp/mlruns/184631762299946013/b7d415d4e78648b68f35eb7194056050/artifacts
+end_time: 1689932008061
+entry_point_name: ''
+experiment_id: '184631762299946013'
+lifecycle_stage: active
+run_id: b7d415d4e78648b68f35eb7194056050
+run_name: bedecked-swan-795
+run_uuid: b7d415d4e78648b68f35eb7194056050
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689932000995
+status: 3
+tags: []
+user_id: Damir4k

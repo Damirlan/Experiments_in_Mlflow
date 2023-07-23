@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Damir4k/MlflowExp/mlruns/332795901300589432/7a7ef99adf4c4ea491a9ae23f9b46155/artifacts
+end_time: 1690096333129
+entry_point_name: ''
+experiment_id: '332795901300589432'
+lifecycle_stage: active
+run_id: 7a7ef99adf4c4ea491a9ae23f9b46155
+run_name: big-crab-155
+run_uuid: 7a7ef99adf4c4ea491a9ae23f9b46155
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690096331168
+status: 3
+tags: []
+user_id: Damir4k

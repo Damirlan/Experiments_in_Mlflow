@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Damir4k/MlflowExp/mlruns/184631762299946013/336afb0091a143598ece253244168d2b/artifacts
+end_time: 1689927638204
+entry_point_name: ''
+experiment_id: '184631762299946013'
+lifecycle_stage: active
+run_id: 336afb0091a143598ece253244168d2b
+run_name: nosy-rat-631
+run_uuid: 336afb0091a143598ece253244168d2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689927638057
+status: 4
+tags: []
+user_id: Damir4k

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Damir4k/MlflowExp/mlruns/904994549742216688/3f821a2112124f30a1c4d00acc83215c/artifacts
+end_time: 1689762100343
+entry_point_name: ''
+experiment_id: '904994549742216688'
+lifecycle_stage: active
+run_id: 3f821a2112124f30a1c4d00acc83215c
+run_name: LinearRegression_or
+run_uuid: 3f821a2112124f30a1c4d00acc83215c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689762098382
+status: 3
+tags: []
+user_id: Damir4k

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Damir4k/MlflowExp/mlruns/767818867820388014/5afea38b306a4626974c272c58a231ee/artifacts
+end_time: 1689943053826
+entry_point_name: ''
+experiment_id: '767818867820388014'
+lifecycle_stage: active
+run_id: 5afea38b306a4626974c272c58a231ee
+run_name: sneaky-shrimp-360
+run_uuid: 5afea38b306a4626974c272c58a231ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689943043509
+status: 3
+tags: []
+user_id: Damir4k

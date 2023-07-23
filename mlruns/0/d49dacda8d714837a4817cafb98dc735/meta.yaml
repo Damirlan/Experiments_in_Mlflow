@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Damir4k/MlflowExp/mlruns/0/d49dacda8d714837a4817cafb98dc735/artifacts
+end_time: 1689755917844
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d49dacda8d714837a4817cafb98dc735
+run_name: learned-shark-454
+run_uuid: d49dacda8d714837a4817cafb98dc735
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689755915799
+status: 3
+tags: []
+user_id: Damir4k

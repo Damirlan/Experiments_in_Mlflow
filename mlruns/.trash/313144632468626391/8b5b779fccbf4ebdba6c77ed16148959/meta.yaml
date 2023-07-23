@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Damir4k/MlflowExp/mlruns/313144632468626391/8b5b779fccbf4ebdba6c77ed16148959/artifacts
+deleted_time: 1689956970252
+end_time: 1689953132637
+entry_point_name: ''
+experiment_id: '313144632468626391'
+lifecycle_stage: deleted
+run_id: 8b5b779fccbf4ebdba6c77ed16148959
+run_name: rebellious-bug-692
+run_uuid: 8b5b779fccbf4ebdba6c77ed16148959
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689953101097
+status: 3
+tags: []
+user_id: Damir4k

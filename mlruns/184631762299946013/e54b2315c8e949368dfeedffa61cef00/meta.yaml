@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Damir4k/MlflowExp/mlruns/184631762299946013/e54b2315c8e949368dfeedffa61cef00/artifacts
+end_time: 1689927202202
+entry_point_name: ''
+experiment_id: '184631762299946013'
+lifecycle_stage: active
+run_id: e54b2315c8e949368dfeedffa61cef00
+run_name: delicate-bird-956
+run_uuid: e54b2315c8e949368dfeedffa61cef00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689927201959
+status: 4
+tags: []
+user_id: Damir4k
